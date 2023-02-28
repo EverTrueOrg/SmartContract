@@ -2,7 +2,7 @@ const networks = require('./hardhat.networks')
 require("@nomicfoundation/hardhat-toolbox");
 require('hardhat-deploy');
 require('hardhat-deploy-ethers');
-require("./tasks")
+// require("./tasks")
 require('hardhat-contract-sizer');
 require("dotenv").config()
 
